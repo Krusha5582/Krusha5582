@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Krusha5582
-- 👀 I’m interested in ... COMPUTER PROGRAMMING, WEB DESIGNIG.
-- 🌱 I’m currently learning ... C++, SQL
-- 💞️ I’m looking to collaborate on ... C, HTML, CSS.
-- 📫 How to reach me ...krusha5582@gmail.com
+👋 Hey there, I’m Krusha!
+
+- 💻 Final-year Computer Engineering student @ Indus University  
+- 🌱 Currently learning: MERN Stack, Python, ML, Firebase  
+- 🎯 Interested in: Full-Stack Dev, UI/UX, AI-powered apps  
+- 💬 Let’s collaborate on: React projects, Chatbots, Portfolio Sites  
+- 🛠️ Projects I’ve built: Dynamic websites, EdTech tools, Smart Chatbot  
+- 📫 Reach me at: [krusha5582@gmail.com](mailto:krusha5582@gmail.com)
+
+---
+
+> “Code with empathy. Build with intent.🚀
+
 
 <!---
 Krusha5582/Krusha5582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
