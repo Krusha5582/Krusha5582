@@ -1,6 +1,6 @@
 👋 Hey there, I’m Krusha!
 
-- 💻 Final-year Computer Engineering student @ Indus University  
+- 💻 Final-year Computer Engineering student 
 - 🌱 Currently learning: MERN Stack, Python, ML, Firebase  
 - 🎯 Interested in: Full-Stack Dev, UI/UX, AI-powered apps  
 - 💬 Let’s collaborate on: React projects, Chatbots, Portfolio Sites  
