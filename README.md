@@ -1,18 +1,23 @@
-👋 Hey there, I’m Krusha!
+👋 Hi, I’m Krusha
+A final-year Computer Engineering undergraduate building intelligent systems across data, software, and security.
 
-- 💻 Final-year Computer Engineering student 
-- 🌱 Currently learning: MERN Stack, Python, ML, Firebase  
-- 🎯 Interested in: Full-Stack Dev, UI/UX, AI-powered apps  
-- 💬 Let’s collaborate on: React projects, Chatbots, Portfolio Sites  
-- 🛠️ Projects I’ve built: Dynamic websites, EdTech tools, Smart Chatbot  
-- 📫 Reach me at: [krusha5582@gmail.com](mailto:krusha5582@gmail.com)
+💡 What I work on
+• Data-driven and AI-powered applications
+• Full-stack platforms (MERN, modern web stacks)
+• Research-oriented and problem-focused systems
+• Secure and scalable application design
 
----
+🛠️ What you’ll find here
+• AI/ML and data-centric projects
+• End-to-end full-stack builds
+• Experimental systems, tools, and prototypes
+• Ongoing research and product ideas
 
-> “Code with empathy. Build with intent.🚀
+🎯 Current focus
+Data Science • Intelligent systems • Applied full-stack engineering • Applied cybersecurity
 
+🤝 Open to
+Internships • freelance/paid projects • research collaborations • meaningful builds
 
-<!---
-Krusha5582/Krusha5582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at
+krusha5582@gmail.com
